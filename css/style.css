@@ -17,6 +17,31 @@ h1 {
 }
 
 .sidebar {
-  background-color: white;opacity:0.5;
+  background-color: white/*;opacity:0.5*/;
   padding: 10px;
+  position: relative;
+}
+
+.sidebar-ontop {
+}
+
+.about {
+  background-color: white/*;opacity:0.5*/;
+  padding: 10px;
+  margin-top: 100px;
+}
+
+.about-span {
+  background-color: lightblue;
+  padding: 5px
+}
+
+.john-day {
+  width: 300px;
+  float: right;
+}
+
+.steve-span {
+  background-color: lightgray;
+  padding: 5px
 }
