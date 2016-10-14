@@ -9,8 +9,6 @@ body {
   max-width: 250px;
   float: right;
   margin-top: 20px;
-  /*background-color: rgba(255, 255, 255, 0.6);*/
-  /*border-radius: 50%;*/
 }
 
 .motohead {
@@ -18,7 +16,6 @@ body {
   float: right;
   margin-top: 20px;
   width: 75%;
-  /*clip: rect(10px,10px,10px,10px);*/
 }
 
 h1 {
@@ -35,7 +32,7 @@ h1 {
 }
 
 .sidebar {
-  background-color: rgba(255, 255, 255, 0.6);/*;opacity:0.5*/;
+  background-color: rgba(255, 255, 255, 0.6);
   padding: 10px;
   position: relative;
   margin-top: 20px;
@@ -55,7 +52,7 @@ h1 {
 }
 
 .about {
-  background-color: rgba(255, 255, 255, 0.6);/*;opacity:0.5*/;
+  background-color: rgba(255, 255, 255, 0.6);
   padding: 10px 20px 10px 20px;
   margin-top: 175px;
   color: black;
