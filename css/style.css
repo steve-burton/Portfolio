@@ -8,32 +8,55 @@ body {
 .steve {
   max-width: 250px;
   float: right;
+  margin-top: 20px;
 }
 
 h1 {
-  font-size: 100px;
+  font-size: 8em;
   font-weight: lighter;
-  font-kerning: 10px;
+  letter-spacing: .05em;
+}
+
+.sidebar h4 {
+  color: black;
 }
 
 .sidebar {
-  background-color: white/*;opacity:0.5*/;
+  background-color: rgba(255, 255, 255, 0.6);/*;opacity:0.5*/;
   padding: 10px;
   position: relative;
+  margin-top: 20px;
+  color: darkblue;
 }
+
+.sidebar a {
+  color: darkblue;
+}
+
+
 
 .sidebar-ontop {
 }
 
 .about {
-  background-color: white/*;opacity:0.5*/;
+  background-color: rgba(255, 255, 255, 0.6);/*;opacity:0.5*/;
   padding: 10px;
-  margin-top: 100px;
+  margin-top: 130px;
+  color: black;
+}
+
+.about p {
+  font-size: 1.2em;
+}
+
+.about ol {
+  font-size: 1.2em;
 }
 
 .about-span {
   background-color: lightblue;
-  padding: 5px
+  padding: 5px;
+  padding-right: 10px
 }
 
 .john-day {
@@ -42,6 +65,7 @@ h1 {
 }
 
 .steve-span {
-  background-color: lightgray;
-  padding: 5px
+  background-color: rgba(255, 255, 255, 0.4);
+  padding: 5px;
+  padding-right: 20px;
 }
