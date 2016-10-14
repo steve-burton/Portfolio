@@ -23,4 +23,4 @@ Or you can contact me [here](mailto:stevevburton@gmail.com) by email.
 
 *This web page is licensed under the MIT license.*
 
-Copyright (c) 2016 _Steve Burton_
+Copyright 2016 _Steve Burton_
