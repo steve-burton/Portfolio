@@ -13,6 +13,14 @@ body {
   /*border-radius: 50%;*/
 }
 
+.motohead {
+  max-width: 250px;
+  float: right;
+  margin-top: 20px;
+  width: 75%;
+  /*clip: rect(10px,10px,10px,10px);*/
+}
+
 h1 {
   font-size: 8em;
   font-weight: lighter;
